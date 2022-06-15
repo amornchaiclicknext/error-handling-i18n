@@ -1,2 +1,2 @@
-# error-handling-i18n
+# Error handling 
 Error handling for i18n nuxt 
